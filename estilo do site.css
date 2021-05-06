@@ -6,7 +6,7 @@ h1{color:black ;
     font-size: 50px;
     text-align: center;
     }
-h2{color: #25064C ; 
+h2{color: black ; 
 font-size:45px ;
 text-align: center;
 }
@@ -14,4 +14,6 @@ p { color: black ;
 font-size: 25px;
 font-style: italic;
 }
+ul{ font-size: 20px;}
+ol{ font-size: 20px;}
 
